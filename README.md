@@ -24,21 +24,19 @@
 <br><br>
 <br><br>
 <div align="center">
-  <h1>💻 DEV's log 💻</h1>
+  <h1>💻 develop vlog 💻</h1>
 </div>
 
 <div align="center">
-    <a href="[https://li-yo.tistory.com](https://kimslab01.tistory.com/)">
+    <a href="https://kimslab01.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-  
-![Tistory Stats](https://img.shields.io/badge/Tistory-Posts:%2020%20|%20Visitors:%2015000-000000?style=for-the-badge)
 </div>
 
 <br><br>
 <br><br>
 <div align="center">
-  <h2>📞 Contact 📞</h2>
+  <h1>📞 Contact 📞</h1>
 </div>
 <div align="center">
     <a href="mailto:kikye04040@gmail.com">
@@ -49,7 +47,7 @@
 <br><br>
 <br><br>
 <div align="center">
-  <h2>🔨 Technical Stack 🔨</h2>
+  <h1>🔨 Technical Stack 🔨</h1>
 </div>
 
 <div align="center">
