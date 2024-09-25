@@ -9,7 +9,7 @@
 ------
 
 
-[![기혜's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikye04040&include_all_commits=true&show_icons=true&bg_color=FF69B4&title_color=ff1493&text_color=ffffff&icon_color=ff69b4)](https://github.com/kikye04040/github-readme-stats)
+[![kikye04040's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikye04040&include_all_commits=true&show_icons=true&theme=pink)](https://github.com/kikye04040/github-readme-stats)
  
 <br>
 
