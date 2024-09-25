@@ -6,6 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=45&duration=3500&pause=3&color=a25782&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=Welcome+to+My+GitHub!+😄)](https://git.io/typing-svg)
 
 
+------
+
 [![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
  
 <br>
