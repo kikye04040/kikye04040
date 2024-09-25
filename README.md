@@ -9,7 +9,7 @@
 ------
 
 
-[![kikye04040's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikye04040&include_all_commits=true&show_icons=true&theme=red)](https://github.com/kikye04040/github-readme-stats)
+[![kikye04040's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikye04040&include_all_commits=true&show_icons=true&theme=highcontrast)](https://github.com/kikye04040/github-readme-stats)
  
 <br>
 
