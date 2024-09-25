@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f17da8&center=true&vCenter=truetext=&animation=twinkling&height=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f17da8&center=true&vCenter=truetext=&animation=twinkling&height=150)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=45&duration=3500&pause=3&color=a25782&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=Welcome+to+My+GitHub!+😄)](https://git.io/typing-svg)
  
 <div align="middle">
