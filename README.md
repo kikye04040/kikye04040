@@ -28,8 +28,14 @@
 </div>
 
 <div align="center">
-    <a href="https://kimslab01.tistory.com/">
+    <a href="[https://kimslab01.tistory.com/](https://www.notion.so/bc16aabbda4e4200817c8a899e47c301)">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://kimslab01.tistory.com/">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
     </a>
 </div>
 
