@@ -16,6 +16,13 @@
 
 <br><br>
 <div align="center">
+  <a href="https://github.com/kikye04040">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikye04040&layout=donut&theme=synthwave" />
+  </a>
+</div>
+
+<br><br>
+<div align="center">
   <a href="https://github.com/kikye04040/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=kikye04040&include_all_commits=true&show_icons=true&theme=synthwave" />
   </a>
